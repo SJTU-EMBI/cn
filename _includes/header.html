@@ -1,0 +1,46 @@
+<header class="d-flex flex-column flex-md-row align-items-center pb-3 mb-5 border-bottom">
+  <div>
+    
+    <!--
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+      <span class="fs-4 fw-bold">{{ site.title }}</span>
+    </a>
+    -->
+
+
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center">
+      <span id="logo-container">
+        <img src="{{ site.github.url }}/assets/img/AIGC-LOGO-v2-Color2-BlackLetters-RGB.png" alt="SJTU-AIGC-Logo" class="logo" width="15%"/>
+      </span>
+    </a>
+
+
+  
+    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+      <span class="fw-bold">{{ site.description }}</span>
+    </a>
+  
+  </div>
+  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
+    {% for item in site.data.settings.menu %}
+      <a class="me-3 py-2 text-decoration-none no-wrap" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+      <a class="me-3 py-2 text-decoration-none no-wrap" href="https://sjtu-aigc.github.io/">EN</a>
+  </nav>
+</header>
+
+
+<style>
+  .logo {
+    width: 15%; /* 调整图标大小 */
+    height: auto;
+  }
+
+  nav a {
+    white-space: nowrap; /* 防止文本换行 */
+    display: inline-block; /* 保持导航链接在同一行 */
+  }
+  
+  
+</style>
+

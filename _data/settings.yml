@@ -1,0 +1,100 @@
+menu:
+- {name: '首页', url: '/'}
+- {name: '团队', url: '/team'}
+- {name: '获奖', url: '/awards'}
+- {name: '作品', url: '/publications'}
+# - {name: '授课', url: '/teaching'}
+# - {name: 'cv', url: '/cv'}
+- {name: '加入我们', url: '/joinus'}
+# - {name: '联系我们', url: '/contact'}
+# - {name: 'EN', url: ''}
+
+
+people:
+- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+# courses:
+# - {name: 'Vector Calculus', url: 'vector-calculus'}
+# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+# - {name: 'Stellar Structures', url: 'stellar-structures'}
+
+honorablechairs:
+- {name: '刘胜利', title: '教授', department: '学生创新中心', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/liushengli.png', url: 'https://me.sjtu.edu.cn/teacher_directory1/xiongzhenhua'}
+- {name: '杨小康', title: '教授', department: '人工智能研究院', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/yangxiaokang.png', url: ''}
+
+
+
+headofclass:
+# - {name: 'Kevin ZHAO Weiming', title: 'Researcher', department: 'Student Innovation Center', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/zhaoweiming.png', url: 'primary-investigator'}
+- {name: '楚朋志', title: '实验师', department: '学生创新中心', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/chupengzhi.png', url: 'https://www.si.sjtu.edu.cn/content/person-detail?params=69203cf7b7cf4f88bb55c94bd1f47646&menuIds=2,7,12'}
+- {name: '晏轶超', title: '助理教授', department: '人工智能研究院', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/yanyichao.png', url: 'https://daodaofr.github.io'}
+- {name: '赵伟明', title: '实验师', department: '学生创新中心', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/zhaoweiming.png', url: 'https://zwm0426.github.io'}
+- {name: '谢铭烨', title: '实验师', department: '学生创新中心', institution: 'Shanghai Jiao Tong University', image: 'assets/img/faculty/xiemingye.png', url: 'https://myronxie.github.io/'}
+
+classof2024:
+- {name: '程军涛', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/chengjuntao.png', url: ''}
+- {name: '方达庸', school: '密西根学院', image: 'assets/img/classof2024/fangdayong.png', url: ''}
+- {name: '葛毅恒', school: '机械与动力工程学院', image: 'assets/img/classof2024/geyiheng.png', url: ''}
+- {name: '纪佳翼', school: '安泰经济与管理学院', image: 'assets/img/classof2024/jijiayi.png', url: ''}
+- {name: '琚依格', school: '设计学院', image: 'assets/img/classof2024/juyige.png', url: ''}
+- {name: '李涵骐', school: '设计学院', image: 'assets/img/classof2024/lihanqi.png', url: ''}
+- {name: '陆李昕', school: '机械与动力工程学院', image: 'assets/img/classof2024/lulixin.png', url: ''}
+- {name: '陆意', school: '溥渊未来技术学院', image: 'assets/img/classof2024/luyi.png', url: ''}
+- {name: '罗义博', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/luoyibo.png', url: ''}
+- {name: '缪沁园', school: '巴黎卓越工程师学院', image: 'assets/img/classof2024/miaoqinyuan.png', url: ''}
+- {name: '聂锦程', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/niejincheng.png', url: ''}
+- {name: '齐天', school: '数学科学学院', image: 'assets/img/classof2024/qitian.png', url: ''}
+- {name: '乔伊宁', school: '安泰经济与管理学院', image: 'assets/img/classof2024/qiaoyining.png', url: ''}
+- {name: '宋致达', school: '医学院', image: 'assets/img/classof2024/songzhida.png', url: ''}
+- {name: '谭皓夫', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/tanhaofu.png', url: ''}
+- {name: '万钊源', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/wanzhaoyuan.png', url: ''}
+- {name: '王陶', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/wangtao.png', url: ''}
+- {name: '王泽铭', school: '物理与天文学院', image: 'assets/img/classof2024/wangzeming.png', url: ''}
+- {name: '吴泽楠', school: '安泰经济与管理学院', image: 'assets/img/classof2024/wuzezan.png', url: ''}
+- {name: '袁一帆', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/yuanyifan.png', url: ''}
+- {name: '张林', school: '电子信息与电气工程学院', image: 'assets/img/classof2024/zhanglin.png', url: ''}
+- {name: '张天骜', school: '船舶海洋与建筑工程学院', image: 'assets/img/classof2024/zhangtianao.png', url: ''}
+- {name: '周梓谨', school: '溥渊未来技术学院', image: 'assets/img/classof2024/zhouzijin.png', url: ''}
+- {name: '朱睿', school: '安泰经济与管理学院', image: 'assets/img/classof2024/zhurui.png', url: ''}
+
+
+classof2023: 
+# - {name: 'Kangjie BAO', school: 'School of Mathematical Sciences', image: 'assets/img/classof2023/baokangjie.png', url: ''}
+# - {name: 'Zicong CHENG', school: 'School of Electronic Information and Electrical Engineering', image: 'assets/img/classof2023/chengzicong.png', url: ''}
+- {name: '鲍康捷', school: '数学科学学院', image: 'assets/img/classof2023/baokangjie.png', url: ''}
+- {name: '程子枞', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/chengzicong.png', url: ''}
+- {name: '高珊', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/gaoshan.png', url: ''}
+- {name: '葛睿', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/gerui.png', url: ''}
+- {name: '郭宇涵', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/guoyuhan.png', url: ''}
+- {name: '孔珺晓', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/kongjunxiao.png', url: ''}
+- {name: '李东校', school: '巴黎卓越工程师学院', image: 'assets/img/classof2023/lidongxiao.png', url: ''}
+- {name: '刘继泽', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/liujize.png', url: ''}
+- {name: '刘伊天', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/liuyitian.png', url: ''}
+- {name: '卢嘉成', school: '安泰经济与管理学院', image: 'assets/img/classof2023/lujiacheng.png', url: ''}
+- {name: '彭泽瑞', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/pengzerui.png', url: ''}
+- {name: '邱博林', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/qiubolin.png', url: ''}
+- {name: '阮亿康', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/ruanyikang.png', url: ''}
+- {name: '帅哲', school: '设计学院', image: 'assets/img/classof2023/shuaizhe.png', url: ''}
+- {name: '童欣文', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/tongxinwen.png', url: ''}
+- {name: '王雨杭', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/wangyuhang.png', url: ''}
+- {name: '夏欣媛', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/xiaxinyuan.png', url: ''}
+- {name: '徐聪晟', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/xucongsheng.png', url: 'https://acondaway.github.io'}
+- {name: '许禾翌', school: '设计学院', image: 'assets/img/classof2023/xuheyi.png', url: ''}
+- {name: '阎冠举', school: '物理与天文学院', image: 'assets/img/classof2023/yanguanju.png', url: ''}
+- {name: '曾奕锟', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/zengyikun.png', url: ''}
+- {name: '张家硕', school: '数学科学学院', image: 'assets/img/classof2023/zhangjiashuo.png', url: ''}
+- {name: '张文康', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/zhangwenkang.png', url: ''}
+- {name: '赵妤', school: '电子信息与电气工程学院', image: 'assets/img/classof2023/zhaoyu.png', url: ''}
+- {name: '周溢茂', school: '人文学院', image: 'assets/img/classof2023/zhouyimao.png', url: ''}
+
+
+social:
+- {icon: 'github', link: 'https://github.com/LeNPaul'}
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+
+contacts:
+- {name: 'Kevin ZHAO Weiming', title: 'Head of Class', department: 'SJTU AIGC Class', institution: 'Shanghai Jiao Tong University', institution_address: '800 Dongchuan Road, Minhang, Shanghai, China', email: 'aigc#sjtu.edu.cn', office: 'Room B300, Student Innovation Center'}
